@@ -1,8 +1,8 @@
-Instructions:
+# Instructions:
 
-This program was compiled and ran on python 3.7.1. The libraries used were csv and numpy. Both files need to be ran separately, although classification.py should only need to be run once for a given test size.
+ - This program was compiled and ran on python 3.7.1. The libraries used were csv and numpy. Both files need to be ran separately, although classification.py should only need to be run once for a given test size.
 
-Training and validation files are given at 80/20 separation to see how program works
+ - Training and validation files are given at 80/20 separation to see how program works
 
 Classification.py:
 
